@@ -4,18 +4,18 @@ A modern blog application built using **React + TypeScript** that allows users t
 
 ---
 
-## 🚀 Features
+##  Features
 
-* 📃 View list of blogs
-* 🔍 View blog details on the right side
-* 🖼️ Display blog image in detail view
-* ✍️ Create new blogs
-* 🎨 Clean and user-friendly UI
-* ⚡ Fast and responsive layout
+*  View list of blogs
+*  View blog details on the right side
+*  Display blog image in detail view
+*  Create new blogs
+*  Clean and user-friendly UI
+*  Fast and responsive layout
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Frontend:** React, TypeScript
 * **Styling:** CSS (custom)
@@ -49,36 +49,8 @@ src/
 
 ---
 
-## ⚙️ Installation & Setup
 
-1. Clone the repository
-
-```bash
-git clone <repository-url>
-cd camonk-interview
-```
-
-2. Install dependencies
-
-```bash
-npm install
-```
-
-3. Start the development server
-
-```bash
-npm run dev
-```
-
-4. Open in browser
-
-```
-http://localhost:5173
-```
-
----
-
-## 🧩 How It Works
+##  How It Works
 
 * Blogs are displayed in a list on the **left panel**
 * Clicking the **View** button loads the blog details on the **right panel**
@@ -87,7 +59,7 @@ http://localhost:5173
 
 ---
 
-## 📌 Assignment Highlights
+##  Assignment Highlights
 
 * Proper component-based architecture
 * Clean conditional rendering
@@ -96,13 +68,13 @@ http://localhost:5173
 
 ---
 
-## 🙌 Conclusion
+##  Conclusion
 
 This project demonstrates a practical understanding of React fundamentals, UI design, and component communication. It fulfills all the requirements of the assignment with a focus on usability and clean code.
 
 ---
 
-## 📸 Screenshot
+##  Screenshot
 ![Blog App UI](c:\CA\CA.png)
 
 ---
