@@ -74,9 +74,5 @@ This project demonstrates a practical understanding of React fundamentals, UI de
 
 ---
 
-##  Screenshot
-![Blog App UI](c:\CA\CA.png)
-
----
 
 **Developed by:** Prajakta Nalawade
