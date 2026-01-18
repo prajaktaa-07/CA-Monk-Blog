@@ -1,0 +1,42 @@
+-------------------------------------------------
+| Blog List (LEFT) | Blog Detail (RIGHT)        |
+|------------------|----------------------------|
+| Blog 1  [View]   |  (Blank initially)         |
+| Blog 2  [View]   |                            |
+| Blog 3  [View]   |  Opens here on click       |
+|                  |                            |
+-------------------------------------------------
+|        Create Blog Form (Top)                 |
+-------------------------------------------------
+
+
+this is output by 
+src/
+ ├─ components/
+|        ├─ui
+               ├─button.tsx
+                ├─input.tsx
+ │    ├─ CreateBlog.tsx 
+ │    ├─ BlogList.tsx
+ │    └─ BlogDetail.tsx
+├─ services/
+       ├─blogApi.ts
+├─ types/
+       ├─blog.ts
+ ├─ pages/
+ │    ├─ Home.tsx
+ │    └─ BlogPage.tsx
+ ├─ api/
+ │    └─ blogApi.ts
+ ├─ App.tsx
+ ├─ index.css
+ └─ main.tsx
+it is giving output as above image
+i want more design and styling
+
+cd C:\CA
+
+npm run server
+
+npm run dev
+

@@ -1,0 +1,39 @@
+{
+  "blogs": [
+    {
+      "id": "66fd",
+      "title": "Cat",
+      "author": "C.Meoww",
+      "content": "Cats are curious and gentle creatures, known for their playful behavior and calm companionship. With soft paws and watchful eyes, they bring comfort, warmth, and joy to the homes they live in.\n With moonlit eyes and whisper-soft steps, the cat moves through the world like a secret. A balance of mystery and affection, it reminds us that comfort often arrives quietly.",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.yvj61X0dbFFF8viA7fmKcAHaEV?pid=Api&P=0&h=180"
+    },
+    {
+      "id": "7414",
+      "title": "Sunflower",
+      "author": "Sun.Flower",
+      "content": "Sunflowers are a beautiful reminder of nature’s simplicity and strength. With their bright yellow petals and tall, confident stems, they symbolize positivity, warmth, and growth.  \nIn a field of green, the sunflower rises like a golden flame, embracing the sun with unwavering devotion. Its petals whisper stories of resilience, while its steady gaze reminds us to always look toward light, no matter how long the shadows fall.",
+      "image": "https://tse2.mm.bing.net/th/id/OIP.k7C5sL0M0B8JtmQYFssFUwHaE8?pid=Api&P=0&h=180"
+    },
+    {
+      "id": "4850",
+      "title": "Parrot",
+      "author": "Pa.Rot",
+      "content": "Parrots are among the most colorful and intelligent birds in the natural world. Known for their bright feathers and playful personalities, they bring life and energy wherever they are found. Their ability to mimic sounds and human speech makes them fascinating companions and symbols of communication.\nPerched between leaves and sunlight, the parrot sings stories of the forest. Dressed in shades of green, red, and blue, it carries the spirit of freedom, echoing laughter and life through the trees.",
+      "image": "https://tse2.mm.bing.net/th/id/OIP.IHmSOAqD3QL9iO09BihsbAHaE8?pid=Api&P=0&h=180"
+    },
+    {
+      "id": "294f",
+      "title": "Butterfly",
+      "author": "Buter.Fly",
+      "content": "Butterflies are insects belonging to the order Lepidoptera. They are known for their colorful wings and fascinating life cycle, which includes four stages: egg, caterpillar, pupa, and adult butterfly. This transformation makes them a strong symbol of growth and renewal. \nSoft wings, vibrant colors, and silent strength — butterflies remind us that growth often happens quietly before it is seen.",
+      "image": "https://tse1.mm.bing.net/th/id/OIP.b_vBdUdibk8gD06U4jZCCwHaEK?pid=Api&P=0&h=180"
+    },
+    {
+      "id": "8e12",
+      "title": "Cow",
+      "author": "C.Hmm",
+      "content": "Cows are domesticated animals that play an important role in agriculture and rural life. They provide milk, which is used to produce dairy products such as butter, cheese, and yogurt. Cows are herbivores and contribute significantly to sustainable farming practices.\n With quiet eyes and steady steps, the cow moves through fields like a guardian of peace. Its gentle presence speaks of simplicity, care, and the quiet strength of giving.",
+      "image": "https://tse3.mm.bing.net/th/id/OIP.RpHEg5lUiwwzlBO0No__pQHaE8?pid=Api&P=0&h=180"
+    }
+  ]
+}
