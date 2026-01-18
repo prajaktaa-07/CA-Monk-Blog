@@ -49,7 +49,6 @@ src/
 
 ---
 
-
 ##  How It Works
 
 * Blogs are displayed in a list on the **left panel**
