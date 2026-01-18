@@ -9,8 +9,8 @@
 |        Create Blog Form (Top)                 |
 -------------------------------------------------
 
+Folder Format
 
-this is output by 
 src/
  ├─ components/
 |        ├─ui
@@ -31,12 +31,4 @@ src/
  ├─ App.tsx
  ├─ index.css
  └─ main.tsx
-it is giving output as above image
-i want more design and styling
-
-cd C:\CA
-
-npm run server
-
-npm run dev
 
