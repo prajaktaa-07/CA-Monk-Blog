@@ -9,7 +9,7 @@
 |        Create Blog Form (Top)                 |
 -------------------------------------------------
 
-Folder Format
+*Folder Format*
 src/
  ├─ components/
 |        ├─ui
